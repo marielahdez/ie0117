@@ -1,6 +1,6 @@
 #include <stdio.h>
-int sum (int a, int b) {
-	return a + b;
+int resta (int c, int d) {
+	return c - d;
 }
 
 // Este es la funcion main
