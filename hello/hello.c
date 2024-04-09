@@ -1,6 +1,7 @@
 #include <stdio.h>
-int resta (int c, int d) {
-	return c - d;
+bool resta (int a, int b) {
+	if (a > b)
+	return true;
 }
 
 // Este es la funcion main
